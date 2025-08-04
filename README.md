@@ -85,4 +85,6 @@ axios.post("http://localhost:8000/plats", {
 
 ## 📧 Contact
 
-Développé par [Votre Nom] – _Formation Dev Python Senior_
+<<<<<<< HEAD
+
+>>>>>>> efbee434c48ca82aaa84ec77556dd5035865279a
